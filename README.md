@@ -24,7 +24,7 @@ A cute arcade-style game where you control a girl astronaut in space, collecting
 ---
 
 ## 📂 Project Structure
-
+```
 girl_in_space/
 │
 ├── assets/
@@ -58,7 +58,7 @@ girl_in_space/
 ├── .venv/ (not uploaded)
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🖼️ Assets & Licensing
