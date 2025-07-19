@@ -81,7 +81,7 @@ See LICENSE for full details.
 
 ## 🔗 Demo
 
-Check out the video demo on [LinkedIn](YOUR-LINKEDIN-POST-URL)
+Check out the video demo on LinkedIn - https://tinyurl.com/ah8j9hjy
 
 ---
 
