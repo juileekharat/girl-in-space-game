@@ -70,7 +70,7 @@ girl_in_space/
 
 ## 📜 License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
 That means you can:
 - Share and adapt the project with credit
 - **NOT use it commercially**
